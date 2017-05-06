@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Daniela Parrales/Documents/GitHub/MIP/meme_data_2.xst" -ofn "C:/Users/Daniela Parrales/Documents/GitHub/MIP/meme_data_2.syr" 
